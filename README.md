@@ -19,5 +19,5 @@ I build full-stack applications with **Java and Spring Boot**, and I've led stud
 ## Skills
 
 **Languages:** Java · Python · JavaScript · SQL · HTML/CSS · C#
-**Frameworks & tools:** Spring Boot · Spring Data JPA · React · MySQL · Git/GitLab · Gradle · JUnit
+**Frameworks & tools:** Spring Boot · Spring Data JPA · React · MySQL · Git/GitLab · Gradle
 **Ways of working:** Scrum (Scrum Master) · code review · mentoring
